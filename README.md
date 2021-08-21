@@ -11,5 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanminho0426&layout=compact)](https://github.com/hanminho0426/github-readme-stats)
 
-
+![hanminho0426's github stats](https://github-readme-stats.vercel.app/api?username=hanminho0426&show_icons=true)
+[![hanminho0426's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hanminho0426&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hanminho0426)
 
